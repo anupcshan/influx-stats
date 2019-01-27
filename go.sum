@@ -1,0 +1,4 @@
+github.com/anupcshan/influxdb1-client v0.0.0-20190127005643-39cebdc7ffa0 h1:OyhEzwGBkIuQc52PFNq8VppGuWG6nkZIdtmpjgZsTMY=
+github.com/anupcshan/influxdb1-client v0.0.0-20190127005643-39cebdc7ffa0/go.mod h1:0E/Ik/Raepppq6ImvshPL/ezRvOAj5E0Vj6XUU3maDk=
+github.com/influxdata/influxdb1-client v0.0.0-20190124185755-16c852ea613f h1:I5wo5v/+kpOcUmBuNGGvvHFJWfqkU6Z6WfJudA4vCVI=
+github.com/influxdata/influxdb1-client v0.0.0-20190124185755-16c852ea613f/go.mod h1:qj24IKcXYK6Iy9ceXlo3Tc+vtHo9lIhSX5JddghvEPo=
